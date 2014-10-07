@@ -10,7 +10,6 @@ node_js:
   
 # npm install runs by default but shown here for illustrative purposes
 before_install:
- - apt-get -y update
  - npm install phantomjs
   
 # Running npm test to run your test cases
