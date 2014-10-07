@@ -148,6 +148,6 @@ fetch the changes and merge them into your project with git.
 
 ### Contact
 
-For more information about AngularJS please visit http://www.angularjs.com.
+For more information about AngularJS please visit http://angularjs.org.
 
 
