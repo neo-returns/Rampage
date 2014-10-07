@@ -1,4 +1,4 @@
-# angular-seed — the seed for AngularJS apps
+# Rampage — Root repository for the AngularJS Rampup project.
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
@@ -148,7 +148,7 @@ fetch the changes and merge them into your project with git.
 
 ## Contact
 
-Root repository for the AngularJS Rampup project. For more information about AngularJS please visit http://www.angularjs.com.
+For more information about AngularJS please visit http://www.angularjs.com.
 =======
-Rampage
+
 
