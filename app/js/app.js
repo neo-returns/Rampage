@@ -16,7 +16,7 @@ function($routeProvider) {
 		controller : 'TaskController'
 	});
 	$routeProvider.otherwise({
-		redirectTo : '/view1'
+		redirectTo : '/tasks'
 	});
 }]);
 
