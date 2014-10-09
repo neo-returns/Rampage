@@ -1,3 +1,4 @@
+codeship
 # Rampage — Root repository for the AngularJS Rampup project. Uses Angular Seed Project.
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
